@@ -1,82 +1,95 @@
-# Welcome to GRUMEC's Documentation
+Welcome to GRUMEC's Documentation
+=================================
 
-## About GRUMEC
+About GRUMEC
+------------
 
-GRUMEC, the Group for Research in Mechanical Engineering Computation, is a research initiative at the University of São Paulo dedicated to advancing the field of computational mechanics. Learn more about our mission, team, and the history of GRUMEC.
+GRUMEC, the Group for Research in Mechanical Engineering Computation, is a research initiative at the University of São Paulo dedicated to advancing the field of computational mechanics.
 
-### Our Mission
-Details about the goals and objectives of GRUMEC.
+**Our Mission**
 
-### Team
-Meet the professors, researchers, and students who drive our research.
+   Details about the goals and objectives of GRUMEC.
 
-### Contact Us
-How to get in touch with us for collaborations and inquiries.
+**Team**
 
-## Research Areas
+   Meet the professors, researchers, and students who drive our research.
 
-Overview of the research topics we focus on at GRUMEC, including but not limited to:
+**Contact Us**
 
-- Computational Fluid Dynamics
-- Structural Analysis
-- Materials Science
-- Computational Biomechanics
+   How to get in touch with us for collaborations and inquiries.
 
-## Projects
+Research Areas
+--------------
 
-Explore our current and past projects to see the impact of our research:
+Overview of the research topics we focus on at GRUMEC:
 
-- Project 1: Title and brief description
-- Project 2: Title and brief description
-- See More Projects
+* Computational Fluid Dynamics
+* Structural Analysis
+* Materials Science
+* Computational Biomechanics
 
-## Publications
+Projects
+--------
 
-Access our published research papers, articles, and other scholarly works:
+Explore our current and past projects:
 
-- [2023] Paper Title - link to paper
-- [2022] Paper Title - link to paper
-- Browse All Publications
+* `Project 1 <link-to-project>`_ : Title and brief description
+* `Project 2 <link-to-project>`_ : Title and brief description
+* `See More Projects <link-to-more-projects>`_
 
-## Resources
+Publications
+------------
 
-Find datasets, code repositories, and other resources that are part of our research outputs:
+Access our published research:
 
-- [Dataset] Title - brief description and link
-- [Software] Title - brief description and link
-- Explore More Resources
+* `[2023] Paper Title <link-to-paper>`_
+* `[2022] Paper Title <link-to-paper>`_
+* `Browse All Publications <link-to-publications>`_
 
-## Getting Involved
+Resources
+---------
 
-Information on how to join GRUMEC as a researcher, student, or collaborator:
+Find datasets, code repositories, and other resources:
 
-- Opportunities for Students
-- Collaborative Projects
-- How to Contribute
+* `[Dataset] Title <link-to-dataset>`_ : Brief description
+* `[Software] Title <link-to-software>`_ : Brief description
+* `Explore More Resources <link-to-resources>`_
 
-## News and Events
+Getting Involved
+----------------
 
-Stay updated with our latest news, workshops, and conferences:
+Information on how to join GRUMEC:
 
-- News Item 1
-- Upcoming Event 1
-- View All News and Events
+* Opportunities for Students
+* Collaborative Projects
+* How to Contribute
 
-## Support Us
+News and Events
+---------------
 
-Learn how you can support our research and initiatives:
+Stay updated with our latest news and events:
 
-- Donations
-- Partnerships
-- Volunteer
+* News Item 1
+* Upcoming Event 1
+* `View All News and Events <link-to-news>`_
 
-## FAQ
+Support Us
+----------
+
+Learn how you can support our research:
+
+* Donations
+* Partnerships
+* Volunteer
+
+FAQ
+---
 
 Common questions about computational mechanics and our research:
 
-- Question 1
-- Question 2
-- More FAQs
+* Question 1
+* Question 2
+* `More FAQs <link-to-faq>`_
 
----
-For more information, please visit the [University of São Paulo](http://www.usp.br) official website.
+.. _University of São Paulo:
+   http://www.usp.br
