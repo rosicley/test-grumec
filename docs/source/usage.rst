@@ -1,4 +1,7 @@
-Usage
+Researcher projects
+
+We should list the projects that are currently being worked on by the researchers. This will help us to keep track of the projects and to make sure that we are all on the same page.
+
 =====
 
 .. _installation:
