@@ -5,4 +5,4 @@ Solvers
 .. autosummary::
    :toctree: generated
 
-   lumache
+   grumec
